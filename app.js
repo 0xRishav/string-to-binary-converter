@@ -7,7 +7,7 @@ var emoji = document.querySelector('.wave-emoji');
 var iconContainer = document.querySelector('.icon-container');
 
 
-var serverurl = "https://cors-anywhere.herokuapp.com/https://api.funtranslations.com/translate/binary.json";
+var serverurl = "https://api.funtranslations.com/translate/binary.json";
 
 
 // 
